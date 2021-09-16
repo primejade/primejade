@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @primejade
-- 👀 I’m interested in Code and Coffee
-- 🌱 I’m currently learning C++
+- @primejade
+-  Code and Coffee
+- learning...
 
-- 📫 How to reach me primejadevi@pm.me
+- mail: primejadevi@pm.me
 
 <!---
 primejade/primejade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
