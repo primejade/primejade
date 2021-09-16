@@ -1,5 +1,3 @@
-![b/w picture](me-shadow-file.png)
-
 ### @primejade
 All my dotfiles and project will appear in this repository.
 
