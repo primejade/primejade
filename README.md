@@ -1,4 +1,4 @@
-![pic](test.png)
+![b/w picture](me-shadow-file.png)
 
 ### @primejade
 All my dotfiles and project will appear in this repository.
@@ -13,8 +13,9 @@ __Contact:__
 __Todo List:__
 - [x] push vim configurations
 - [x] push suckless build
-- [ ] update dotfiles
 - [ ] push neovim workflow configurations
+- [ ] push cheatsheets
+- [ ] update dotfiles and add the new ones
 
 - Social media
     - [ ] linkedin profile
