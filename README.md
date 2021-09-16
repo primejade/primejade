@@ -1,16 +1,20 @@
 ![pics](HE.png)
 
 ### @primejade
+
 All my dotfiles and project will appear in this repository.
 
 __Interested in__
+
 - Code and Coffee
 - Learning
 
 __Contact:__
+
 - mail: primejadevi@pm.me
 
 __Todo List:__
+
 - [x] push vim configurations
 - [x] push suckless build
 - [ ] push neovim workflow configurations
