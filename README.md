@@ -1,4 +1,4 @@
-![pics](me-shadow-file.png)
+![pics](HE.png)
 
 ### @primejade
 All my dotfiles and project will appear in this repository.
