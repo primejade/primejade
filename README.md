@@ -3,17 +3,22 @@
 ### @primejade
 All my dotfiles and project will appear in this repository.
 
-- Interested in
-    -  Code and Coffee
-    - learning...
+__Interested in__
+- Code and Coffee
+- Learning
 
-- Contact:
-    - mail: primejadevi@pm.me
+__Contact:__
+- mail: primejadevi@pm.me
 
-- Todo List:
-    - Social media
-        - [ ] linkedin profile
-        - [ ] stackoverflow
+__Todo List:__
+- [x] push vim configurations
+- [x] push suckless build
+- [ ] update dotfiles
+- [ ] push neovim workflow configurations
+
+- Social media
+    - [ ] linkedin profile
+    - [ ] stackoverflow
 
 <!---
 primejade/primejade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
