@@ -42,6 +42,10 @@ Many things is our there that I also intrested in, including:
     - [ ] Django
     - [ ] Qt
 
+> I added a Makefile to create a pdf version
+> it's using LaTeX 
+> and `lowdown` to create the `TeX` file
+
 <!---
 __Interested in__
 
